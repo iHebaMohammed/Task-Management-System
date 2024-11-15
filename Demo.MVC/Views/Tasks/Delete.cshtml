@@ -1,0 +1,39 @@
+﻿@model TaskDto
+
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Update Task</h1>
+<br />
+<br />
+<form method="post" asp-action="Delete" enctype="multipart/form-data">
+    <input asp-for="Id" hidden />
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Title"></label>
+        <input class="form-control" asp-for="Title" readonly />
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Description"></label>
+        <input class="form-control" asp-for="Description" readonly />
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="DueDate"></label>
+        <input class="form-control" asp-for="DueDate" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Status"></label>
+        <select asp-for="Status" asp-items="ViewBag.TaskStatusList" class="form-control" readonly>
+            <option value="">Select Status</option>
+        </select>
+    </div>
+
+    <br />
+    <br />
+
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a class="btn btn-light" asp-action="Index">Back To List</a>
+</form>
+
+

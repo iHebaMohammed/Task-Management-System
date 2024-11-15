@@ -1,0 +1,14 @@
+E:\Repos\Task Management System\Demo.DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+E:\Repos\Task Management System\Demo.DAL\bin\Debug\net8.0\Demo.DAL.runtimeconfig.json
+E:\Repos\Task Management System\Demo.DAL\bin\Debug\net8.0\Demo.DAL.dll
+E:\Repos\Task Management System\Demo.DAL\bin\Debug\net8.0\Demo.DAL.pdb
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.dll
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.pdb
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\Demo.DAL.genruntimeconfig.cache
+E:\Repos\Task Management System\Demo.DAL\obj\Debug\net8.0\ref\Demo.DAL.dll
