@@ -1,4 +1,4 @@
-# Task Management Application - README
+# Task Management Application
 
 ## Overview
 
